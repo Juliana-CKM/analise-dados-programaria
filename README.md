@@ -6,7 +6,7 @@ Análises utilizando Python no curso Meus Primeiros Passos em Python da PrograMa
 
 <h2>Softwares e Linguagens </h2>
 <li>Excel: Pivot Tables</li>
-<li>Python: Numpy, Pandas, Jupyter, matplotlib, plotly, sklearn</li>
+<li>Python: Numpy, Pandas, Jupyter, matplotlib, plotly, Seabor, sklearn</li>
 <li>SQL Lite</li>
 <li>Looker</li>
 
